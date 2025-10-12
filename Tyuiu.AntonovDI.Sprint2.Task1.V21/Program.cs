@@ -46,6 +46,6 @@ internal class Program
         {
             Console.WriteLine(res[i]);
         }
-        Console.ReadKey();
+        Console.ReadKey();  
     }
 }
