@@ -7,7 +7,7 @@ internal class Program
         DataService ds = new DataService();
         
         Console.Title = "Спринт #2 | Выполнил: Антонов Д. И. | ИСТНб-25-1";
-
+         
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #2                                                               *");
         Console.WriteLine("* Тема: Тернарный оператор                                                *");
